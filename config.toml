@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'FormulaSpy'
+theme = "ananke"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = "/images/formulaspy_logo_dark.png"
