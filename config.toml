@@ -6,5 +6,5 @@ theme = "ananke"
 [params]
   text_color = ""
   author = ""
-  favicon = ""
+  favicon = "/images/favicon.ico"
   site_logo = "/images/formulaspy_logo_dark.png"
