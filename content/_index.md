@@ -6,7 +6,7 @@ layout: "single" # This depends on your theme's available layouts.
 
 # Goodbye from FormulaSpy.com
 
-March 8th 2023
+March 8th 2024
 
 After over a decade of passionate reporting on Formula 1, we've made the difficult decision to say goodbye. It's been an incredible journey filled with unforgettable moments, thrilling races, and a community of fans who share our love for the sport.
 
